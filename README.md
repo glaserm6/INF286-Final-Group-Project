@@ -1,0 +1,5 @@
+Mackenzie Glaser - I created the format for the navbar and header for each site. I also created the index page, the aboutUs.html and chooseBerkshireCo.html page. As well as celebrating 50 years page. I then edited each page after my partners got them done, in order to attach the website all together. I also went through each page and added different visually appealing elements in order to make sure we had a functioning and aesthetically pleasing pages. 
+
+Sydney Gilson - I originally found the website we would be remodeling. I then made the HTML part of the pages for Contact Us, New Releases, and Sustainability. For the New Releases and Sustainability, I then took some links from the original website and incorporated them into the new one.
+
+Aislinn Beam -  I wrote the pages for the other Berkshire companies, the information on the annual meeting and the page on the company governance. 
